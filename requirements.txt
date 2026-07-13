@@ -1,0 +1,6 @@
+Flask
+pymongo
+PyMuPDF
+reportlab
+matplotlib
+Pillow
