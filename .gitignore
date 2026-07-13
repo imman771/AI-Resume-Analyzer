@@ -1,0 +1,28 @@
+# Virtual Environment
+venv/
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Uploaded Files
+uploads/
+
+# Generated Charts
+skill_chart.png
+
+# VS Code
+.vscode/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Flask
+instance/
+
+# Logs
+*.log
+#pdf
+Resume_Report.pdf
